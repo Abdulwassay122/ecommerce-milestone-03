@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from "next/image";
-import logo1 from './assets/Vector (6).svg'
 import nike from './assets/drawer.png'
 import wishlidt from './assets/Frame.svg'
 import cart from './assets/Frame (1).svg'
